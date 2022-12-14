@@ -20,10 +20,11 @@ docker tag <image-name>:<tag> <docker-id>/<image-name>:<tag>   =>   docker tag n
 `<docker-id>` is the docker ID of the DockerHub account. 
 
 for pushing into Docker Hub, we can enter the following command:  
-``text
+```text
 docker image push <docker-id>/<image-name>:<tag>   =>   docker image push heliahashemipour/new-alpine:1.0 
-``
+```
 To test the created image, download your image from Dockerhub‫.‬
+
 ```text
 docker image pull <docker-id>/<image-name>:<tag>   =>   ddocker image pull heliahashemipour/new-alpine:1.0
 ```
