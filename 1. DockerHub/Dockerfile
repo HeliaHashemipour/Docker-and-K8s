@@ -1,5 +1,7 @@
 FROM alpine
 
-RUN apk --no-cache add curl
+RUN apk update && apk add curl
 
 CMD ash
+
+
