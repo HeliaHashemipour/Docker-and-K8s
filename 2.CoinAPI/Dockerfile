@@ -13,3 +13,4 @@ ENV CACHE_PORT 80
 ENV COIN_NAME 'bitcoin'
 
 COPY app.py /app/main.py
+
