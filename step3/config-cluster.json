@@ -1,0 +1,6 @@
+{
+    "SERVER_PORT": 8000,
+    "CACHE_EXPIRE_TIME": 300,
+    "COIN_NAME": "bitcoin",
+    "HOST_API": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids="
+}
