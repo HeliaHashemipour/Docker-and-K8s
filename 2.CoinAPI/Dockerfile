@@ -9,7 +9,7 @@ COPY requirements.txt /tmp/requirements.txt
 RUN pip install --no-cache-dir -r /tmp/requirements.txt
 
 ENV CACHE_EXPIRE_TIME 300
-ENV CACHE_PORT 80
+ENV SERVER_PORT 80
 ENV COIN_NAME 'bitcoin'
 
 COPY app.py /app/main.py

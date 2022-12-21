@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: coin-config
+data:
+  COIN_NAME: "bitcoin"
+  COIN_URL: "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids="
+  CACHE_PORT: "80"
+  CACHE_EXPIRE_TIME: "300"

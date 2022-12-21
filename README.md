@@ -1,5 +1,10 @@
 # Docker-and-K8s
 
+This repository is about the first assignment of the cloud computing course.
+
+> Instructor: [Dr. S. A. Javadi](https://scholar.google.com/citations?user=Va7RTUsAAAAJ&hl=en)
+
+> Semester: Fall 2022
 ## Section 1: Docker Hub
 
 This section creates a Dockerfile that has an alpine linux distribution with curl installed.
