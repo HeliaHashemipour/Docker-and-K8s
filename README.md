@@ -1,6 +1,6 @@
 # Docker-and-K8s
 
-This repository is about the first assignment of the cloud computing course.
+This repository is about the second assignment of the cloud computing course.
 
 > Instructor: [Dr. S. A. Javadi](https://scholar.google.com/citations?user=Va7RTUsAAAAJ&hl=en)
 
